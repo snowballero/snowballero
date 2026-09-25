@@ -1,4 +1,4 @@
-<img src="banner.png" width="1000" align="center">
+<img src="banner.png" width="800" align="center">
 <h1 align="center">snowballer The Honorable</h1>
 
 ### Interested in coding and sports. I cook sometimes ig
