@@ -4,4 +4,7 @@
 ### Interested in coding and sports. I cook sometimes ig
 
 ### What I work with
-<img src="Python-logo.png" width="50"> · <img src="js.png" width="80">
+### Python | Js | bash
+
+## Projects
+<a href="https://github.com/snowballero/mintvaulty-python">MintVaulty</a>
