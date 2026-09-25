@@ -3,7 +3,10 @@
 
 ### Interested in coding and sports. I cook sometimes ig
 
-### What I work with
+## About me
+### Im a student who likes building random stuff. I love open source
+
+### What I work with:
 ### Python | Js | bash
 
 ## Contact me (or not)
