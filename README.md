@@ -8,6 +8,6 @@
 
 ### What I work with:
 ### Python | Js | bash
-
+<br>
 ## Contact me (or not)
 <a href="mailto:snowballerhotmail@gmail.com"><img src="mail.png" width="350"></a>
