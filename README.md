@@ -4,4 +4,4 @@
 ### Interested in coding and sports. I cook sometimes ig
 
 ### What I work with
-### Python · Javascript · Bash
+<img src="Python-logo.png" width="100"> · <img src="js.png" width="100"> · <img src="bash.png" width="100">
