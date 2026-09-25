@@ -7,4 +7,4 @@
 ### Python | Js | bash
 
 ## Projects
-<a href="https://github.com/snowballero/mintvaulty-python"><img src="mintvaulty.png" width="150"></a><a href="https://github.com/snowballero/gitprint"><img src="gitprint.png" width="150"></a>
+<a href="https://github.com/snowballero/mintvaulty-python"><img src="mintvaulty.png" width="150"></a><a href="https://github.com/snowballero/gitprint"><img src="gitprint.png" width="150" align="center"></a>
