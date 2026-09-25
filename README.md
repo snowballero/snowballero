@@ -7,4 +7,4 @@
 ### Python | Js | bash
 
 ## Contact me (or not)
-<a href="mailto:snowballerhotmail@gmail.com"><img src="mail.png" width="100"></a>
+<a href="mailto:snowballerhotmail@gmail.com"><img src="mail.png" width="350"></a>
