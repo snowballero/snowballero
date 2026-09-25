@@ -4,4 +4,4 @@
 ### Interested in coding and sports. I cook sometimes ig
 
 ### What I work with
-<img src="Python-logo.png" width="100"> · <img src="js.png" width="100"> · <img src="bash.png" width="100">
+<img src="Python-logo.png" width="50"> · <img src="js.png" width="80">
