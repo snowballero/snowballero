@@ -1,2 +1,4 @@
-## Hi
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowballero)](https://github.com/anuraghazra/github-readme-stats)
+## who are you?
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css)](https://skillicons.dev)
