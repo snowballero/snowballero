@@ -10,12 +10,12 @@ Python projects , involving apis or other things. Im also currently learning c++
 # skills
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css)](https://skillicons.dev)
 
-### Languages: python, c++, bash
-### tools: git, debian, docker
+#### Languages: python, c++, bash
+#### tools: git, debian, docker
 
 # laptop specs
 #### Kernel: linux
-### OS: Debian
-### RAM: 16GB ddr4
-### CPU: Ryzen 5 5500h
-### GPU: rtx 2050
+#### OS: Debian
+#### RAM: 16GB ddr4
+#### CPU: Ryzen 5 5500h
+#### GPU: rtx 2050
