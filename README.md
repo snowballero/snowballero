@@ -4,5 +4,5 @@
 + Open to learn
 + Open to teach few skills
 
-### Stack
+# Stack
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css)](https://skillicons.dev)
