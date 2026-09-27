@@ -1,4 +1,4 @@
-# who are you?
+# Who are you?
 ### im a hobbyist , i sometimes code and sometimes cook. I also like playing minecraft.
 
 ### Stack
