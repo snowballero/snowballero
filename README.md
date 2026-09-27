@@ -4,5 +4,11 @@
 + Open to learn
 + Open to teach few skills
 
-# Stack
+# What im currently working on
+### Python projects , involving apis or other things. Im also currently learning c++
+
+# skills
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css)](https://skillicons.dev)
+
++ Languages: python, c++
++ tools: git, debian, docker
