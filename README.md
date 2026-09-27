@@ -14,7 +14,7 @@ Python projects , involving apis or other things. Im also currently learning c++
 ### tools: git, debian, docker
 
 # laptop specs
-### Kernel: linux
+#### Kernel: linux
 ### OS: Debian
 ### RAM: 16GB ddr4
 ### CPU: Ryzen 5 5500h
